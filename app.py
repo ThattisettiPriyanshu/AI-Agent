@@ -9,7 +9,7 @@ search_tool = DuckDuckGoSearchRun()
 tools = [search_tool]
 
 # 2. Streamlit UI Setup
-st.set_page_config(page_title="Travel Concierge", page_icon="✈️", layout="centered")
+st.set_page_config(page_title="Wanderlust AI", page_icon="✈️", layout="centered")
 
 # Inject beautiful, responsive background image with a dark overlay to maintain perfect readability
 page_bg_img = """
@@ -27,7 +27,7 @@ page_bg_img = """
 """
 st.markdown(page_bg_img, unsafe_allow_html=True)
 
-st.title("✈️ AI Travel Concierge")
+st.title("✈️ Wanderlust AI")
 st.markdown("Your personal AI travel agent. Tell me where you want to go, and I'll search the web to build your perfect itinerary.")
 
 # Sidebar for API Key configuration

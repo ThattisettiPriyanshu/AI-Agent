@@ -1,9 +1,9 @@
-# ✈️ AI Travel Concierge
+# ✈️ Wanderlust AI
 
 An intelligent, autonomous travel agent built with **LangGraph**, **Streamlit**, and **Google Gemini** for the Google & Kaggle AI Capstone Project. 
 
 ## 🌟 Overview
-The AI Travel Concierge takes your dream destination and personal interests, searches the web for current, real-world data, and automatically generates a highly structured, day-by-day luxury travel itinerary.
+The Wanderlust AI takes your dream destination and personal interests, searches the web for current, real-world data, and automatically generates a highly structured, day-by-day luxury travel itinerary.
 
 Unlike standard chatbots, this is a true **Agent** that is equipped with a Web Search tool. It verifies its recommendations and provides you with ratings, reviews, and clickable links for every restaurant and attraction it suggests!
 
