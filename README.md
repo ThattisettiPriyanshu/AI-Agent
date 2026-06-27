@@ -41,3 +41,15 @@ Unlike standard chatbots, this is a true **Agent** that is equipped with a Web S
    streamlit run app.py
    ```
 4. Open your browser to `http://localhost:8501`, enter your API key, and start planning your next trip!
+
+## 🌍 Deployment
+
+The easiest way to deploy this application for free is using **Streamlit Community Cloud**.
+
+1. Go to [share.streamlit.io](https://share.streamlit.io) and sign in with your GitHub account.
+2. Click **"New app"**.
+3. Select this repository (`ThattisettiPriyanshu/AI-Agent`).
+4. Set the Main file path to `app.py`.
+5. Click **"Deploy"**.
+
+Within minutes, your Wanderlust AI will be live on the internet with a public URL that you can submit for your Kaggle project!
